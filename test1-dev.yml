@@ -1,5 +1,5 @@
 partner-to-c1b:
-  account-status:
+  accountStatus:
     n: "NORMAL"
     N: "NORMAL"
     " ": "NORMAL"
