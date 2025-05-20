@@ -2,7 +2,7 @@ partner-to-c1b:
   accountStatus:
     n: "NORMAL"
     N: "NORMAL"
-    " ": "NORMAL"
+    "\u0020": "NORMAL"
   sub-status:
     "00": "OPEN"
     "35": "WRITTEN_VERIFICATION_OF_INCARCERATION"
