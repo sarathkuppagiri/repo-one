@@ -1,1 +1,16 @@
-abc: dummy
+partner-to-c1b:
+  account-status:
+    n: "NORMAL"
+    N: "NORMAL"
+    " ": "NORMAL"
+  sub-status:
+    "00": "OPEN"
+    "35": "WRITTEN_VERIFICATION_OF_INCARCERATION"
+
+
+c1b-to-partner:
+  account-status:
+    NORMAL: "N"
+  sub-status:
+    OPEN: "00"
+    WRITTEN_VERIFICATION_OF_INCARCERATION: "35"
